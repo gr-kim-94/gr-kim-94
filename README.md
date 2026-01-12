@@ -58,7 +58,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Personal iOS Projects
 
 | App | Description | Tech |
 |-----|--------------|------|
