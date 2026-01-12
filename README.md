@@ -8,6 +8,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-GPT--4-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
 
+[![Top Langs](github-readme-stats.vercel.app)](
+
 ---
 
 ### 🧠 About Me
