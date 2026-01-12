@@ -58,12 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gr-kim-94&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### 🚀 Featured Projects
 
 | App | Description | Tech |
