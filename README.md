@@ -1,21 +1,16 @@
-# Garam Kim
+# Garam Kim (가람)
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=for-the-badge&logo=tistory&logoColor=white)](https://itstudentstudy.tistory.com/)
 
-## iOS & AI Developer | Swift • SwiftUI • Python • LLM
-
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=apple&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-4285F4?style=for-the-badge&logo=apple&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-GPT--4-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+## 📱 iOS Developer & 🤖 AI engineer
 
 ---
 
-### 🧠 About Me
+### 🧠 Profile Summary
 
-- 📱 **iOS Developer** experienced in **Objective-C**, **Swift**, **SwiftUI**, **Combine**, and **SwiftData**
-- ☁️ Familiar with **Firebase**, **WebRTC**, **MQTT**, and **SQL** for real-time communication and data storage
-- 🚀 Developed and published two iOS apps — **차비서** and **앞바르여행**
-- 🤖 Currently studying ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat-square&logo=huggingface&logoColor=black)  and **LLM fundamentals** to deepen AI understanding
+- 📱 **iOS Developer**: 7+ years of experience in **Swift, SwiftUI, Objective-C, Combine**, and **SwiftData**.
+- ☁️ **Connected Systems**: Proficient in building real-time architectures using **WebRTC, MQTT, Firebase**, and **SQL**.
+- 🚀 **App Launches**: Developed and published two iOS apps — **차비서** and **앞바르여행**
+- 🤖 **AI Transformation**: Leveraging a strong background in mobile development to **expand professional scope into AI Engineering**, focusing on **LLM fundamentals** and **building/scaling intelligent AI Agents**.
 
 ---
 
@@ -40,6 +35,13 @@
 - [NMapsMap](https://github.com/navermaps/NMapsMap)
 - [ZXing (Barcode)](https://github.com/zxingify/zxingify-objc)
 
+#### 🤖 AI Engineering & Agents (Expanding)
+- **Frameworks:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square)
+- **Core:** ![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat-square&logo=huggingface&logoColor=black) `LLM Fundamentals`, `RAG`, `Prompt Engineering`
+- **Agentic Patterns:** `Tool-use`, `Multi-Agent Systems`, `Memory Management`
+- **RAG & Evaluation**: Building **RAG(Retrieval-Augmented Generation)** pipelines and ensuring performance through **Ragas** and **MMG** metrics.
+- **Vector DB:** `Qdrant`, `PostgreSQL`
+
 ---
 
 ### 🤝 Collaboration
@@ -54,7 +56,6 @@
 - 🧭 Source Control: **Sourcetree**, **Fork**  
 - 🗂️ Project Management: **Redmine**, **Notion**  
 - 🎨 Design: **Figma**
-
 
 ---
 
